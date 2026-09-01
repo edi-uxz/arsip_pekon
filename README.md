@@ -44,4 +44,4 @@
 
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/edi-uxz/arsip_pekon.git](https://github.com/edi-uxz/arsip_pekon.git)
+   git clone [https://github.com/edi-uxz/arsip_pekon]
